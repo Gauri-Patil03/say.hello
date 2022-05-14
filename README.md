@@ -1,1 +1,1 @@
-# say.hello
+echo "hello"
